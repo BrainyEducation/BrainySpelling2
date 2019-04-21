@@ -23,7 +23,7 @@ You can install the app directly by downloading the latest apk [here](https://gi
 1. Download [Android Studio](https://developer.android.com/studio/)
 2. Open Android Studio
 3. Click VCS -> Checkout from Version Control -> Git
-4. Paste the Git link (https://github.com/immjustjoshin/SpellAStory.git)
+4. Paste the Git link (https://github.com/walterevansaugusta/BrainySpelling2.git)
 5. Click Clone
 
 #### Build & Run
