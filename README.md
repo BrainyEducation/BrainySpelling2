@@ -15,6 +15,9 @@ Spell-a-Story
 
 Install Guide
 ---
+### Android Device
+You can install the app directly by downloading the latest apk [here](https://github.com/walterevansaugusta/SpellAStory/releases)
+
 ### Android Studio
 #### Setup
 1. Download [Android Studio](https://developer.android.com/studio/)
